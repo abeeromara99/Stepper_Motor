@@ -3,7 +3,8 @@
 # Driver Implemented:  
 1-DIO driver    
 2-LCD driver    
-3-KEYPAD driver  4-Stepper_Motor driver
+3-KEYPAD driver  
+4-Stepper_Motor driver
 # How it works ?
 -when you enter the correct password , it takes you to the next window and you only have 3 attempts to try it.If you enter the password incorrectly more than 3 times,the system will shut down for 5 seconds.  
 -The Next window have Three choose first DC_Motor if you choose it it will take you to the next window,second Stepper_MotorThird if you choose it it will take you to the next and third Exit and if you choose it it you will Exit the system.  
