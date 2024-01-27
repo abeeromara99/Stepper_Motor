@@ -13,7 +13,7 @@
 2-for Rotate CCW  
 3-For STOP  
 4-press any key to take you to the previous window  
--If you choose Stepper_Motor and the next window opend, in this window you shall inter your rotating angle and then choose direction:  
+-If you choose Stepper_Motor and the next window opend, in this window you shall enter your rotating angle and then choose direction:  
 1-for Rotate CW  
 2-for Rotate CCW   
    
